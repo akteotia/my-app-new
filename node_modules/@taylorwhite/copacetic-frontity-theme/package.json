@@ -1,0 +1,62 @@
+{
+  "_from": "@taylorwhite/copacetic-frontity-theme@^1.0.6",
+  "_id": "@taylorwhite/copacetic-frontity-theme@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-xQfncvuAO8u7YLHKmLBCsivOFNp84tGfKrqlwwpzD96zokxRx0dlw+epV7Q80Spyoz+UgoFIw2w6XUTXBDPvrQ==",
+  "_location": "/@taylorwhite/copacetic-frontity-theme",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@taylorwhite/copacetic-frontity-theme@^1.0.6",
+    "name": "@taylorwhite/copacetic-frontity-theme",
+    "escapedName": "@taylorwhite%2fcopacetic-frontity-theme",
+    "scope": "@taylorwhite",
+    "rawSpec": "^1.0.6",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.6"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@taylorwhite/copacetic-frontity-theme/-/copacetic-frontity-theme-1.0.6.tgz",
+  "_shasum": "6eb96a6c6226c3ef9cb2f7cb1cae94ee4ff44824",
+  "_spec": "@taylorwhite/copacetic-frontity-theme@^1.0.6",
+  "_where": "C:\\my-app-new",
+  "author": {
+    "name": "Taylor White",
+    "email": "whitetc2@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/taylorchasewhite/copacetic-frontity/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@chakra-ui/core": "0.8.0",
+    "@frontity/components": "^1.5.1",
+    "@frontity/hooks": "2.0.2",
+    "@frontity/html2react": "^1.4.0",
+    "emotion-theming": "10.0.27",
+    "frontity": "^1.12.0",
+    "react-icons": "3.11.0"
+  },
+  "deprecated": false,
+  "description": "A frontity theme made with Chakra UI",
+  "homepage": "https://github.com/taylorchasewhite/copacetic-frontity#readme",
+  "keywords": [
+    "wordpress",
+    "frontity",
+    "frontity-theme"
+  ],
+  "license": "MIT",
+  "name": "@taylorwhite/copacetic-frontity-theme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorchasewhite/copacetic-frontity.git"
+  },
+  "version": "1.0.6"
+}
